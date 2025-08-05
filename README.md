@@ -4,6 +4,8 @@
 🧠 Curious about turning raw data into real insights  
 🚀 Learning in public through hands-on projects and consistent practice
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=georgexlabs&style=flat-square)
+
 ---
 
 ### 🧰 Tools & Technologies
@@ -30,8 +32,15 @@
 ### 📊 GitHub Stats & Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=georgexlabs&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgexlabs&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgexlabs&layout=compact)  
 ![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgexlabs&show_icons=true&hide=issues&count_private=true)
+
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=georgexlabs&theme=github)
 
 ---
 
