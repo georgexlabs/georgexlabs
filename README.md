@@ -15,12 +15,12 @@
 
 ---
 
-### 📌 What I'm Working On
+<!--### 📌 What I'm Working On
 - 📂 Personal data projects using real-world datasets  
 - 📈 Visualizing data for better storytelling  
 - 🧹 Data cleaning and transformation using Python & SQL
 
----
+--- -->
 
 ### 📚 Learning Goals
 - Master data wrangling and EDA (Exploratory Data Analysis)  
@@ -29,18 +29,34 @@
 
 ---
 
+### 📘 Currently Learning
+- 🐍 Advanced Python for Data Analysis  
+- 🧮 SQL (Joins, Aggregations, Window Functions)  
+- 📊 Power BI dashboard design  
+- ⚙️ Git version control workflows  
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=georgexlabs&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgexlabs&layout=compact)  
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgexlabs&show_icons=true&hide=issues&count_private=true)
-
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgexlabs&show_icons=true&hide=issues&count_private=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=georgexlabs&theme=flat)
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Calendar
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=georgexlabs&theme=github)
+
+---
+
+### 🌐 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/yourusername)  
+- [Kaggle](https://kaggle.com/yourusername)  
+- [Medium](https://medium.com/@yourusername)
 
 ---
 
