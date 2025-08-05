@@ -54,9 +54,8 @@
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Kaggle](https://kaggle.com/yourusername)  
-- [Medium](https://medium.com/@yourusername)
+- [LinkedIn](https://x.com/georgexlabs)  
+- [Kaggle](https://kaggle.com/georgexlabs)  
 
 ---
 
