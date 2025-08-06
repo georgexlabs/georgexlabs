@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm George
 
+⚡ Electrical Engineering Student  
 📊 Aspiring Data Analyst  
 🧠 Curious about turning raw data into real insights  
 🚀 Learning in public through hands-on projects and consistent practice
@@ -9,18 +10,20 @@
 ---
 
 ### 🧰 Tools & Technologies
-- **Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools**: Excel, Power BI, Jupyter Notebook, Git & GitHub
 
 ---
 
-<!--### 📌 What I'm Working On
-- 📂 Personal data projects using real-world datasets  
-- 📈 Visualizing data for better storytelling  
-- 🧹 Data cleaning and transformation using Python & SQL
+### 🔌 Electrical Engineering Interests
 
---- -->
+- 🛠️ Building and testing simple electronic circuits  
+- 🔋 Working with microcontrollers (Arduino, ESP32)  
+- ⚡ Learning the fundamentals of power systems and control  
+- 📐 Exploring how hardware meets software in embedded systems  
+
+---
 
 ### 📚 Learning Goals
 - Master data wrangling and EDA (Exploratory Data Analysis)  
@@ -54,8 +57,8 @@
 
 ### 🌐 Connect With Me
 
-- [X](https://x.com/georgexlabs)  
-- [Kaggle](https://kaggle.com/georgexlabs)  
+- [X (Twitter)](https://x.com/georgexlabs_)  
+- [Kaggle](https://kaggle.com/georgexlabs)
 
 ---
 
